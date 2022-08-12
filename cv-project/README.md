@@ -1,3 +1,12 @@
+This is a react CV builder project. Users can create their own specialized CVs using the application. The app uses react to build a dynamic single page applicaiton. The project features the following:
+
+1) Add multiple Edcutional experiences and work experiences
+2) Edit the added experiences
+3) Delete experiences
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
